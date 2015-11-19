@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  graveyard: MyString
+  day_of_death: 2015-11-05
+  no_of_arms: 1
+  description: MyText
+
+two:
+  name: MyString
+  graveyard: MyString
+  day_of_death: 2015-11-05
+  no_of_arms: 1
+  description: MyText
